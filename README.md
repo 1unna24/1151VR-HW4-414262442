@@ -45,6 +45,6 @@
 - `PlaneController.cs`：控制飛機移動及碰撞音效
 - `CoinRotate.cs`：控制金幣旋轉及收集音效
 
-
+### 5. 作業繳交
 - **GitHub：** https://github.com/1unna24/1151VR-HW4-414262442
 - **YouTube：** https://youtu.be/fjwdkxjOCyg
